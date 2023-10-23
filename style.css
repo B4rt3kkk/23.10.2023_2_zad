@@ -1,0 +1,19 @@
+body{
+   
+}
+hr{
+    color: aliceblue;
+}
+.box{
+    background-repeat: no-repeat;
+    background-image: url(tło.jpg);
+    background-size: cover;
+    height: 1000px;
+}
+/*
+
+https://preview.colorlib.com/theme/marco/
+
+https://getbootstrap.com/docs/5.3/utilities/background/#background-color
+
+*/
